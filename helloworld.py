@@ -24,6 +24,7 @@ print("This is code after input variable type is defined")
 a = int(input("Enter value 1: "))
 b = int(input("Enter value 2: "))
 print (a+b)
+#we can do basic maths on python now!
 
 
 
